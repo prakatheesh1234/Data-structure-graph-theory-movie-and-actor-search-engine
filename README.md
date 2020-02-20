@@ -19,11 +19,10 @@ The queries are:
  
  
  
- A1_PS2_BSG_[Group id _114].py is the main code to run
-  inpuPS2.txt (input will be diven in this file)
-  outputPS2.txt   (Output of the code will be stored in the is text file)
-  analysisPS2.txt ( This file has the running time complexity of the main code)
- 
+ A1_PS2_BSG_[Group id _114].py is the main code to run,
+  inpuPS2.txt (input will be diven in this file),
+  outputPS2.txt   (Output of the code will be stored in the is text file),
+  analysisPS2.txt ( This file has the running time complexity of the main code). 
  
  
  
