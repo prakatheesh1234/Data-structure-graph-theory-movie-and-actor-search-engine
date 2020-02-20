@@ -1,0 +1,8 @@
+searchActor: Aamir Khan
+searchActor: vijay
+searchMovie: Gully
+searchMovie: PK
+RMovies: dangal : PK
+RMovies: ADHM : PK
+TMovies: Dangal : ADHM
+TMovies: Sanju : Krish

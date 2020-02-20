@@ -1,0 +1,39 @@
+--------Function displayActMov--------
+Total Number of movies: 10
+Total Number of actors: 19
+
+List of movies :
+['dangal ', 'sanju ', 'pk ', 'munna bhai mbbs ', 'zindagi na milegi dobara ', 'adhm ', 'krish ', 'kesari ', 'gully boy ', 'highway ']
+
+List of actors :
+[' aamir khan ', ' fatima sana', ' ranbir kapoor ', ' dia mirza', ' aamir khan ', ' anushka sharma', ' sanjay dutt ', ' arshad warsi', ' farhan akhtar ', ' katrina kaif', ' ranbir kapoor ', ' anushka sharma', ' hritik', ' akshay kumar ', ' parineeti chopra', ' alia bhat ', ' ranveer singh', ' alia bhat ', ' randeep hooda']
+----------------------------------------- 
+
+--------Function displayMoviesOfActor-------- 
+List of Movies: ['dangal', 'pk']
+List of Movies: We are not having the relevant movies of actor vijay
+----------------------------------------- 
+
+--------Function displayActorsOfMovie -------- 
+List of actors: We are not having the relevant actor's of  movies gully
+List of actors: ('aamir khan', 'anushka sharma')
+----------------------------------------- 
+
+--------Function findMovieRelation -------- 
+Movie A: dangal
+Movie B: pk
+Related Yes: aamir khan
+
+Movie A: adhm
+Movie B: pk
+Related Yes: anushka sharma
+
+--------Function findMovieTransRelation --------  
+Movie A: dangal
+Movie B: adhm
+Related : ['dangal', 'aamir khan', 'pk', 'anushka sharma', 'adhm']
+----------------------------------------- 
+Movie A: sanju
+Movie B: krish
+Not related , There is no TransRelation between two movies
+----------------------------------------- 
